@@ -1,4 +1,4 @@
-export const BASE_PATH = "http://backend.olympushosting.uk"
+export const BASE_PATH = "https://backend.olympushosting.uk"
 export const INVITE_URL = "https://invite.ree6.de"
 
 export function get(path: string) {
